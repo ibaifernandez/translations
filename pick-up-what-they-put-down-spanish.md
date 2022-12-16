@@ -6,6 +6,8 @@
 
 > Una versión expandida y revisada está disponible en [«El manual de la carrera de código»](https://www.learninpublic.org/)!
 
+> Lee el artículo original **[aquí](https://www.swyx.io/puwtpd)**
+
 Digamos que te ha gustado la idea de [«aprender en público»](https://www.swyx.io/writing/learn-in-public/).
 
 Quieres comenzar inmediatamente pero te sientes intimiadado con todos los consejos que por ahí circulan:
