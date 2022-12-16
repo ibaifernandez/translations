@@ -47,8 +47,6 @@ El GRAN requisito sobre cualquiera de los puntos anteriores es que **DEBES amar 
 
 También debes cerrar el ciclo: cuando haya producido algo [por ejemplo, un artículo en tu blog] basado en el trabajo de alguien, etiqueta al creador [o a los creadores] de dicho trabajo en redes sociales. Twitter está diseñado para esto, pero también puedes responder en forma de comentarios y enviarlo por correo electrónico con una nota amable.
 
----
-
 ## ¿Qué pasa cuando haces esto?
 
 Pues que hay una MUY alta probabilidad de que recibas comentarios sobre ese artículo de blog tuyo, sobre esa demostración, ese tweet o lo que sea que hayas producido, directamente de esas personas —los creadores del contenido original—. Un retweet y/o un _follow_ son algo común, especialmente en interacciones repetidas a través de las que demuestras tu entusiasmo y seriedad a la hora de aprender.
@@ -79,9 +77,7 @@ Hay una _gran_ falta de retroalimentación en todas partes. Sí, hay superestrel
 
 En Twitter en particular, la gente suele mostrarse tímida al promocionar su propio trabajo. Pero si _alguien más_ en Internet dice cosas buenas sobre su trabajo... entonces se pasan todo el día haciendo retweet.
 
----
-
-## ¿Por qué habría de funcionar esto contigo=
+## ¿Por qué habría de funcionar esto contigo?
 
 Retroalimentación, retroalimentación y retroalimentación. Pierdes interés cuando no recibes comentarios. Lo que todos anhelamos para seguir adelante es la retroalimentación de que estamos haciendo algo mal o bien, cualquier cosa que nos ayude a preparar la siguiente acción que vamos a tomar. El hecho de que no sepamos cuál será la retroalimentación lo convierte todo en una «recompensa variable», que es _menta de gato_ para humanos a la hora de formar un nuevo hábito.
 
