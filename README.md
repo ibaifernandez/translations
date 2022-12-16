@@ -1,2 +1,3 @@
-# translations
-A collection of all the articles I have translated
+# My Translations
+
+Here's a collection of every article I have translated.
