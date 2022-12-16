@@ -17,7 +17,7 @@ Quieres comenzar inmediatamente pero te sientes intimiadado con todos los consej
 - **«Pregunta a la gente qué es lo que quieren leer»**... pero no tienes a quien preguntarle. Además, la gente siempre dice sí al contenido gratis, de todos modos. El contenido que tú ya de por sí escribes... y que nadie lee... lo que te ha hecho perder el interés al respecto.
 - **«No te preocupes. Lleva algo de tiempo conseguir una audiencia»**... Pero no te puedes identificar con quien te dice eso porque se trata de gente, a tus ojos, ya de por sí exitosa, lo que te hace perder el interés...
 
-**You’re not alone.**
+**No estás solo.**
 
 En los últimos 2 años he hablado con un par de cientos de personas en varias etapas de su viaje de «aprendizaje en público» [#LearnInPublic]. Y, por supuesto,también fue algo que experimenté yo mismo en su momento. Empezar sigue siendo demasiado difícil sin importar cuántas voces bien intencionadas te digan lo que hacen y cómo lo hicieron.
 
